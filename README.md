@@ -1,15 +1,54 @@
-# 💫 About Me:
-<br>🔭 I’m currently working on building dynamic web applications using JavaScript and React.<br><br>👯 I’m looking to collaborate on open-source projects and web development challenges.<br><br>🤝 I’m looking for help with improving my backend skills, especially in Node.js and databases.<br><br>🌱 I’m currently learning fullstack development, focusing on JavaScript frameworks and APIs.<br><br>💬 Ask me about front-end development, responsive design, and JavaScript fundamentals.<br><br>🎶 Fun fact: I’m a self-taught pianist and love exploring music theory in my free time!
+### 👋 Hi, I'm Amal
+
+**Frontend Developer** | JavaScript • React • TypeScript
+
+I'm passionate about building modern, accessible user interfaces. Currently exploring fullstack development with **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**.
+
+---
+
+### 🛠 Tech Stack
+- **Languages:** JavaScript, TypeScript, HTML, CSS, SASS  
+- **Tools & Frameworks:** React, Next.js, Vite, Tailwind, Node.js, Prisma  
+- **Learning:** NestJS, REST APIs, testing
+
+---
+
+### 🚀 What I’m Up To
+- Building performant SPAs  
+- Improving UI/UX and accessibility  
+- Expanding my portfolio with real-world projects  
+- Exploring SSR and authentication
+
+---
+
+### 🤝 Let’s Connect
+- Based in **Albufeira, Portugal**   
+- [LinkedIn](coming soon) • Website (coming soon)
 
 
-# 💻 Tech Stack:
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+# 💻 Frontend Tech Stack:
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Sass](https://img.shields.io/badge/Sass-hotpink?style=for-the-badge&logo=sass&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=saleh-coder&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saleh-coder&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saleh-coder&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=saleh-coder&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
