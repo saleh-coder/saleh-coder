@@ -51,11 +51,4 @@ Figma, GitHub, Notion
 
 ---
 
-### 🤝 Let’s Connect
-- Based in **Albufeira, Portugal**
-- [LinkedIn](**[ADICIONE O LINK DO SEU LINKEDIN AQUI QUANDO TIVER UM]**)
-- [Portfolio](**[ADICIONE O LINK DO SEU PORTFOLIO ONLINE AQUI QUANDO TIVER UM]**)
-
----
-
 [![](https://visitcount.itsvg.in/api?id=saleh-coder&icon=0&color=0)](https://visitcount.itsvg.in)
