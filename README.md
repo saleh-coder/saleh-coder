@@ -2,31 +2,32 @@
 
 **Aspiring Frontend Developer** | JavaScript • React • TypeScript
 
-A highly motivated student passionate about building modern and accessible user interfaces, currently focused on mastering **React** and its ecosystem (including **Next.js** and **TypeScript**). Eager to apply my learning and contribute to innovative web development projects in Portugal.
+A motivated learner passionate about building modern and accessible user interfaces. Currently focused on mastering **React** and its ecosystem (including **Next.js** and **TypeScript**) through tutorials and hands-on practice. Eager to apply what I learn and contribute to real-world projects.
 
 ---
 
 ### 🛠 Tech Stack
 
-**Programming Languages:**
+**Programming Languages:**  
 JavaScript, TypeScript
 
-**Markup & Styling:**
+**Markup & Styling:**  
 HTML, CSS, SASS
 
-**Frameworks & Libraries:**
+**Frameworks & Libraries:**  
 React, Next.js, Vite, Tailwind CSS
 
-**Design & Productivity Tools:**
+**Design & Productivity Tools:**  
 Figma, GitHub, Notion
 
 ---
 
 ### 🚀 What I’m Up To
-- Deepening my understanding of **React fundamentals**, including components, state management (Hooks!), and the React lifecycle.
+- Deepening my understanding of **React fundamentals** — components, state management (Hooks), and the React lifecycle.
 - Exploring **Next.js** for server-side rendering and building full-stack applications.
-- Strengthening my skills in **TypeScript** for writing maintainable and scalable code.
-- Continuously learning about UI/UX principles and web accessibility best practices to create user-friendly applications.
+- Improving skills in **TypeScript** for writing scalable, maintainable code.
+- Learning UI/UX principles and web accessibility best practices.
+- Working towards building my own projects from scratch.
 
 ---
 
@@ -44,7 +45,9 @@ Figma, GitHub, Notion
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-# 📊 GitHub Stats:
+---
+
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=saleh-coder&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saleh-coder&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saleh-coder&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
