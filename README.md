@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Amal Saleh
+*Aspiring Fullstack Web Developer | Lifelong Learner*
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,6 +20,9 @@ Fullstack Web Development student building projects from **freeCodeCamp**.
 
 ### 📚 Certification in progress
 **freeCodeCamp – Responsive Web Design**  
+[Check my freeCodeCamp Profile](https://www.freecodecamp.org/saleh-coder)
+
+> 🚧 Projects below are currently in development. Links will be updated once they are ready.
 
 #### Projects
 **Survey Form**  
@@ -36,7 +40,8 @@ Fullstack Web Development student building projects from **freeCodeCamp**.
 **Personal Portfolio**  
 [![Personal Portfolio](https://via.placeholder.com/400x200.png?text=WIP)](https://saleh-coder.github.io/personal-portfolio/)
 
-> Placeholders will be replaced with screenshots or GIFs when projects are ready.
+> 🖼️ Placeholders will be replaced with real screenshots or GIFs once projects are completed.
+
 
 ---
 
@@ -55,7 +60,8 @@ Fullstack Web Development student building projects from **freeCodeCamp**.
 ---
 
 ### 📫 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/amal-saleh-8019b8b1/)  
+- [LinkedIn](https://www.linkedin.com/in/amal-saleh-8019b8b1/)
+- [freeCodeCamp Profile](https://www.freecodecamp.org/saleh-coder)  
 - [Portfolio (coming soon)]()
 
 ---
