@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amal Saleh
+# 👋 Hi, I'm Amal Saleh  
 *Aspiring Fullstack Web Developer | Lifelong Learner*
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -6,11 +6,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-006400?style=for-the-badge&logo=freecodecamp&logoColor=white)
 
-Fullstack Web Development student building projects from **freeCodeCamp**.  
+Student of Fullstack Web Development — learning, building, and growing through **freeCodeCamp**. 
 
 ---
 
-### 🚀 Technologies I'm learning
+### 🚀 Technologies I'm Learning
 - HTML5  
 - CSS3  
 - JavaScript (ES6+)  
@@ -18,20 +18,20 @@ Fullstack Web Development student building projects from **freeCodeCamp**.
 
 ---
 
-### 📚 Certification in progress
+### 📚 Certification in Progress
 **freeCodeCamp – Responsive Web Design**  
-[Check my freeCodeCamp Profile](https://www.freecodecamp.org/saleh-coder)
+🔗 [View my progress on freeCodeCamp](https://www.freecodecamp.org/saleh-coder)
 
-> 🚧 Projects below are currently in development. Links will be updated once they are ready.
+> 🚧 *Projects below are currently in development. Links will be updated as they are completed.*
 
-#### Projects
+#### Projects  
 **Survey Form**  
 [![Survey Form](https://via.placeholder.com/400x200.png?text=WIP)](https://saleh-coder.github.io/survey-form/)
 
 **Tribute Page**  
 [![Tribute Page](https://via.placeholder.com/400x200.png?text=WIP)](https://saleh-coder.github.io/tribute-page/)
 
-**Technical Documentation**  
+**Technical Documentation Page**  
 [![Technical Documentation](https://via.placeholder.com/400x200.png?text=WIP)](https://saleh-coder.github.io/technical-documentation/)
 
 **Product Landing Page**  
@@ -40,8 +40,7 @@ Fullstack Web Development student building projects from **freeCodeCamp**.
 **Personal Portfolio**  
 [![Personal Portfolio](https://via.placeholder.com/400x200.png?text=WIP)](https://saleh-coder.github.io/personal-portfolio/)
 
-> 🖼️ Placeholders will be replaced with real screenshots or GIFs once projects are completed.
-
+> 🖼️ *Screenshots or GIFs will be added once projects are finalized.*
 
 ---
 
@@ -55,12 +54,12 @@ Fullstack Web Development student building projects from **freeCodeCamp**.
 ### 🧩 Next Steps
 - Master Flexbox & Grid  
 - Build interactive JavaScript projects  
-- Learn APIs  
+- Learn to integrate and consume APIs   
 
 ---
 
-### 📫 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/amal-saleh-8019b8b1/)
+### 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/amal-saleh-8019b8b1/)  
 - [freeCodeCamp Profile](https://www.freecodecamp.org/saleh-coder)  
 - [Portfolio (coming soon)]()
 
