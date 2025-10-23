@@ -26,7 +26,8 @@ Student of Fullstack Web Development — learning, building, and growing through
 
 #### Projects  
 **Survey Form**  
-[![Survey Form](https://via.placeholder.com/400x200.png?text=WIP)](https://saleh-coder.github.io/survey-form/)
+[![Survey Form](assets/images/screenshot-laptop-mobile.png)](https://saleh-coder.github.io/survey-form/)
+💡 A tribute page built with semantic HTML and styled with CSS.
 
 **Tribute Page**  
 [![Tribute Page](https://via.placeholder.com/400x200.png?text=WIP)](https://saleh-coder.github.io/tribute-page/)
