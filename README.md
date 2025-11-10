@@ -31,7 +31,7 @@ Student of Fullstack Web Development — learning, building, and growing through
 💡 A tribute page built with semantic HTML and styled with CSS.
 
 **Tribute Page**  
-[![Tribute Page](https://via.placeholder.com/400x200.png?text=WIP)](https://saleh-coder.github.io/tribute-page/)
+[![Tribute Page](https://github.com/saleh-coder/tribute-marie-curie/blob/main/images/motion-ezgif.com-video-to-gif-converter.gif?raw=true)](https://saleh-coder.github.io/tribute-marie-curie/)
 
 **Technical Documentation Page**  
 [![Technical Documentation](https://via.placeholder.com/400x200.png?text=WIP)](https://saleh-coder.github.io/technical-documentation/)
