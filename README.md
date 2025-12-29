@@ -62,7 +62,7 @@
 |---------|--------|---------|-------------|
 | **Survey Form** | ✅ Completed | [![Survey Form](https://github.com/saleh-coder/survey-form/blob/main/assets/images/screenshot-laptop-mobile.png?raw=true)](https://saleh-coder.github.io/survey-form/) | HTML5, CSS3 |
 | **Tribute Page** | ✅ Completed | [![Tribute Page](https://github.com/saleh-coder/tribute-marie-curie/blob/main/images/motion-ezgif.com-video-to-gif-converter.gif?raw=true)](https://saleh-coder.github.io/tribute-marie-curie/) | HTML5, CSS3 |
-| **Technical Documentation** | 🔄 In Progress | [![WIP](https://via.placeholder.com/300x150/2d3748/ffffff?text=Coming+Soon)](https://saleh-coder.github.io/technical-documentation/) | HTML5, CSS3, JS |
+| **Technical Documentation** | ✅ Completed | [![Technical Documentation](https://github.com/saleh-coder/technical-documentation-page/blob/main/images/showcase-export-1766858651368.gif?raw=true)](https://saleh-coder.github.io/technical-documentation-page/) | HTML5, CSS3 |
 | **Product Landing Page** | 🔄 In Progress | [![WIP](https://via.placeholder.com/300x150/2d3748/ffffff?text=Coming+Soon)](https://saleh-coder.github.io/product-landing/) | HTML5, CSS3, JS |
 | **Personal Portfolio** | 🔄 In Progress | [![WIP](https://via.placeholder.com/300x150/2d3748/ffffff?text=Coming+Soon)](https://saleh-coder.github.io/personal-portfolio/) | HTML5, CSS3, JS |
 
